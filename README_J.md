@@ -17,6 +17,5 @@ HVC-C用サンプルコードをPC上の任意のフォルダにコピーして�
       https://github.com/OmronSensingEggProject/HVC-C1B_SimpleDemo-Android
 
 ##3. ドキュメント
-    Android上で動作するHVC-Cのサンプルデモアプリを動作させる手順は
-    [pdfのドキュメント](./GettingStarted_Android.pdf)をご参照下さい。
+   Android上で動作するHVC-Cのサンプルデモアプリを動作させる手順は[pdfのドキュメント](./GettingStarted_Android.pdf)をご参照下さい。
 
